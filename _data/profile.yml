@@ -2,9 +2,8 @@ primary_name: "Kanghuai Liu"
 secondary_name: ""
 navbar_name: "Your Name"
 
-positions:
-  - name: Postdoctoral Research Fellow
-  - name: Nanyang Technological University
+positions: 
+  - name: Postdoctoral Research Fellow, Nanyang Technological University
     logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional (replace with NTU logo if you want)
 
 email: "kanghuai.liu@ntu.edu.sg"
@@ -24,7 +23,7 @@ short_bio: |-
     I am currently a Postdoctoral Research Fellow at Nanyang Technological University, 
     working with 
     <a href="https://personal.ntu.edu.sg/asxytang/" target="_blank" rel="noopener noreferrer">Prof. Xueyan Tang</a>. 
-    I received my Ph.D. degree at Sun Yat-sen University, 
+    I obtained my Ph.D. degree at Sun Yat-sen University, 
     supervised by 
     <a href="https://chen-website.github.io/" target="_blank" rel="noopener noreferrer">Prof. Lin Chen</a>. 
     I received my M.E. degree at Central South University, 
@@ -52,7 +51,7 @@ education:
     date: 2020 - 2024
   - name: Central South University
     logo: /assets/images/badges/PKU_red.png
-    position: M.Eng in Software Engineering
+    position: M.E. in Software Engineering
     date: 2017 - 2020
   - name: Central South University
     logo: /assets/images/badges/PKU_red.png
