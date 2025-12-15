@@ -73,4 +73,7 @@ awards:
     date: 2023
     
 service:
-  - name: Reviewer: IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Computers, IEEE Transactions on Dependable and Secure Computing
+  - name: Reviewer: IEEE/ACM Transactions on Networking, 
+  IEEE Transactions on Mobile Computing, 
+  IEEE Transactions on Computers, 
+  IEEE Transactions on Dependable and Secure Computing
