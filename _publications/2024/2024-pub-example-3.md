@@ -2,10 +2,10 @@
 title:          "Revisiting RFID Missing Tag Identification: Theoretical Foundation and Algorithm Design"
 date:           2024-10-01
 selected:       true
-pub:            "IEEE/ACM Transactions on Networking (ToN)"
+pub:            "IEEE/ACM Transactions on Networking (TON)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">CCF-A</span>'
 pub_date:       "2024"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 # abstract: >-
@@ -17,6 +17,6 @@ authors:
   - Jihong Yu
   - Ziyue Jia
 links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Paper: https://ieeexplore.ieee.org/document/10540347
+  Bibtex: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
