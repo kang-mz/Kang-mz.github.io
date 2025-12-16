@@ -87,13 +87,6 @@ div.lazy {
     vertical-align: baseline; /* 添加垂直对齐，与文本基线对齐 */
 }
 
-/* 专门用于会议徽章的样式，确保字体大小与会议名称一致 */
-.conference-badge {
-    font-size: 1em !important; /* Bootstrap small 类的大小，与会议名称相同 */
-    line-height: 1.5 !important; /* 调整行高以匹配 */
-    vertical-align: baseline !important; /* 确保垂直对齐 */
-}
-
 .email-text {
     font-family: Source Code Pro, monospace;
 }
