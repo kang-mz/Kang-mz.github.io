@@ -18,5 +18,5 @@ authors:
   - Ziyue Jia
 links:
   Paper: https://ieeexplore.ieee.org/document/10540347
-  Bibtex: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Bibtex: /_publications/Bibtex/2024/ToN-2024.txt
 ---
